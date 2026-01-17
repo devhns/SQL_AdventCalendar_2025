@@ -1,0 +1,1 @@
+select *, date(start_date, +'14 days') as focus_end_Date from focus_challenges
